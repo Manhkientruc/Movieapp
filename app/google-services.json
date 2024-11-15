@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "321081877982",
+    "firebase_url": "https://movieview-23cab-default-rtdb.firebaseio.com",
+    "project_id": "movieview-23cab",
+    "storage_bucket": "movieview-23cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321081877982:android:4302eddf3db58a8358a94f",
+        "android_client_info": {
+          "package_name": "com.pro.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHXsmYLlouHgiPu8X_phJhCVxAA0v44M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
